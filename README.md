@@ -1,5 +1,5 @@
 # Class Roster
-The class-roster program maintains a roster of students. The program populates a class roster from information in a student data table. Commands are used to manipulate and display student data. The objective of this program is to practice C++ by exploring different data types, pointers, management of objects, and data parsing.
+class-roster is a program that maintains a roster of students. It populates a class roster from information in a student data table. Commands are used to manipulate and display student data. The objective of this program is to practice C++ by exploring different data types, pointers, management of objects, and data parsing.
 ## Functionalities
 - Parsing data from a student data table that includes the student ID, first name, last name, email address, age, days in first course, days in second course, days in third course, and degree program to create student objects
 - Adding a student to the class roster
