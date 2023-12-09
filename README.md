@@ -7,6 +7,6 @@ The class-roster program maintains a roster of students. The program populates a
 - Displaying all students with student details
 - Displaying all students of a specific degree program
 - Displaying a student’s average number of days in courses
-- Verifies student email addresses and displays all invalid addresses
+- Verifying student email addresses by displaying all invalid addresses
 ## Example Output
 <img width="740" alt="rosteroutput" src="https://github.com/PcGamer25/class-roster/assets/24723469/503fd2c1-2cce-4a06-a3ae-5ed22cd066a4">
